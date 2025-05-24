@@ -41,6 +41,11 @@ The dashboard supports analysis based on:
 •	Marital Status: Divorced, Married, Single
 •	Loan Status: Yes/No
 ________________________________________
+## Dashboard
+
+![Screenshot 2025-05-21 173159](https://github.com/user-attachments/assets/a44c1fb1-45c2-4449-bf9f-3fa539b4e9af)
+
+________________________________________
 🔍 Business Takeaways
 •	Target Middle-aged Clients (36–59): This group shows the highest conversion potential.
 •	Prioritize Cellular Contact: It's the most effective communication method.
